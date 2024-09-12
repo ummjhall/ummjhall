@@ -12,7 +12,7 @@ The seeds of my software engineering journey were planted with a college introdu
 
 <hr>
 
-### Contact Me!
+### Connect With Me!
 
 [<img width="50px" src="https://github.com/user-attachments/assets/795930f1-58db-406d-85b8-805f71563e85">](https://ummjhall.github.io/portfolio/)
 [<img width="50px" src="https://github.com/user-attachments/assets/a22cb94b-f076-4025-9bf5-597300ce548f">](https://linkedin.com/in/justin-hall-55175160)
