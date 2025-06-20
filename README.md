@@ -1,12 +1,12 @@
 ## Hello, I'm Justin
 
-The seeds of my software engineering journey were planted with a college introductory programming course. I was on a different trajectory, one that led me to rewarding years overseas. But destined to return to this path, I have dived head-first into this exciting lifelong career. Developing my skill set through intense comprehensive training, graduating from the highly-regarded App Academy, I am now creating full stack web applications while growing my expertise every day.
+The seeds of my software engineering journey were planted with a college introductory course in C++. At the time, I was on a different trajectory, one that has led me to rewarding years overseas. But destined to return to this path, I have dived head-first into this exciting lifelong career. I began developing my skill set through intense comprehensive training, graduating from the highly-regarded App Academy. I continue to learn and expand my areas of proficiency, and find fulfillment in helping people by contributing my skills where they are needed.
 
 <hr>
 
 ### Currently:
 😎 Seeking to ... Contribute my skills in a software engineering role  
-💻 Working on ... Making my e-commerce project, Astro, even better  
+💻 Working on ... Enhancing my e-commerce project further  
 🎮 Playing ... Poker  
 🉐 Ask me about ... Japanese language  
 
