@@ -6,8 +6,8 @@ The seeds of my software engineering journey were planted with a college introdu
 
 ### Currently:
 😎 Seeking to ... Contribute my skills in a software engineering role  
-💻 Working on ... Enhancing my e-commerce project further  
-🎮 Playing ... Poker  
+💻 Working on ... Mastering docker  
+⚽ Playing ... Futsal and soccer  
 🉐 Ask me about ... Japanese language  
 
 <hr>
